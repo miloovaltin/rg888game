@@ -1,0 +1,17 @@
+
+{
+"name": "rg888game",
+"theme": "rg888 game",
+"version": "7.5.7",
+"description": "rg888 game สมัครเว็บไซต์คาสิโนเว็บตรง คนเล่นเยอะ ให้เงินเครดิตฟรี",
+"keywords": [
+"rg888 game",
+"rg888 game เครดิตฟรี",
+"rg888 game ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/rg888game",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
